@@ -661,19 +661,24 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=100
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #https://cdn08jtedge.indihometv.com/dassdvr/133/useeprime/manifest.mpd
 
-#EXTINF:-1 tvg-id="Maxstream.id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj2wZ.png" group-title="TV NASIONAL",MAX Stream
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
+#EXTINF:0 tvg-id="MADU TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjWOp.png" group-title="TV NASIONAL",MADU TV
+https://re1.siar.us/madutv/hd720/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Btv" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjqtC.png" group-title="TV NASIONAL",25.BTV
+#https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hRcWs.png" group-title="TV NASIONAL",26.Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hRoqr.png",27.Garuda TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hRX5T.png" group-title="TV NASIONAL",28.Indonesiana TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hRjQG.png",29.Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 
 ===================================================================religi===============================================================================================
