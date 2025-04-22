@@ -1134,7 +1134,7 @@ http://nonton.site:8080/DZqjznfyyn/3Q9O2vucT6/32586
 
 
 
-#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/z11E3QC.png" group-title="FILM",Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmFZY.png" group-title="FILM",Paramount Network
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -1143,16 +1143,7 @@ http://nonton.site:8080/DZqjznfyyn/3Q9O2vucT6/32586
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/GFllV10.png" group-title="FILM",AMC
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" tvg-logo="https://i.imgur.com/QZ7jC84.png" group-title="FILM",AXN Movies
+#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm7IL.png" group-title="FILM",AXN Movies
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #KODIPROP:mimetype=application/dash+xml
@@ -1163,7 +1154,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
 https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.imgur.com/N2AHzvW.png" group-title="FILM",AXN
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm7IL.png" group-title="FILM",AXN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1173,7 +1164,7 @@ https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
 https://atemeshield2-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://i.imgur.com/U1oQnRD.png" group-title="FILM",CCM
+#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Pcbds.png" group-title="FILM",CCM
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1183,7 +1174,7 @@ https://atemeshield2-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES" tvg-logo="https://i.imgur.com/GZa4hLK.png" group-title="FILM",CELESTIAL MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcAFr.png" group-title="FILM",CELESTIAL MOVIES
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1193,7 +1184,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash/Celestial
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 https://atemeshield2-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ROCK ACTION" tvg-logo="https://i.imgur.com/5FR6NHc.png" group-title="FILM",ROCK ACTION
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ACTION" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmNJi.png" group-title="FILM",ROCK ACTION
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1203,7 +1194,7 @@ https://atemeshield2-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMovies
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://atemeshield2-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://i.imgur.com/nM6XejE.png" group-title="FILM",KIX
+#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmK6Z.png" group-title="FILM",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1213,7 +1204,7 @@ https://atemeshield2-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 https://atemeshield2-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="THRILL" tvg-logo="https://i.imgur.com/gSt6k3Q.png" group-title="FILM",THRILL
+#EXTINF:-1 tvg-id="" tvg-name="THRILL" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmLMm.png" group-title="FILM",THRILL
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1223,7 +1214,7 @@ https://atemeshield2-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash/Thrill.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://i.imgur.com/kZjIicG.png" group-title="FILM",TvN MOVIE
+#EXTINF:-1 tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmrIo.png" group-title="FILM",TvN MOVIE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1233,7 +1224,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 https://atemeshield2-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://i.imgur.com/4WGC0U3.png" group-title="FILM",HITS
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmVEf.png" group-title="FILM",HITS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1243,7 +1234,7 @@ https://atemeshield2-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
 https://atemeshield2-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://i.imgur.com/kYGXF4s.png" group-title="FILM",HITS MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmVEf.png" group-title="FILM",HITS MOVIES
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1285,7 +1276,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.dens.tv&referer=https://www.dens.tv/&user-agent=DENSGO/3.00.05 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.imgur.com/WwFnWtn.png" group-title="FILM",IMC
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm8ZW.png" group-title="FILM",IMC
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1295,7 +1286,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://i.imgur.com/sGbbGkD.png" group-title="FILM",ZEE BIOSKOP
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmZa3.png" group-title="FILM",ZEE BIOSKOP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1305,7 +1296,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="https://i.imgur.com/Kqz0zDz.png" group-title="FILM",GALAXY
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmHJR.png" group-title="FILM",GALAXY
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1315,7 +1306,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://i.imgur.com/Kqz0zDz.png" group-title="FILM",GALAXY PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcQjE.png" group-title="FILM",GALAXY PREMIUM
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1325,7 +1316,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI" tvg-logo="https://i.imgur.com/VDHdU99.png" group-title="FILM",CINEMACHI
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcesS.png" group-title="FILM",CINEMACHI
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1335,7 +1326,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPre
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION" tvg-logo="https://i.imgur.com/reCwA3i.png" group-title="FILM",CINEMACHI ACTION
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcXTd.png" group-title="FILM",CINEMACHI ACTION
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1345,7 +1336,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI MAX" tvg-logo="https://i.imgur.com/PJA4d4N.png" group-title="FILM",CINEMACHI MAX
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI MAX" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Pc92B.png" group-title="FILM",CINEMACHI MAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1355,7 +1346,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash/Cinemachi
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI EXTRA" tvg-logo="https://i.imgur.com/gQ4SVpP.png" group-title="FILM",CINEMACHI EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI EXTRA" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcDuY.png" group-title="FILM",CINEMACHI EXTRA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1377,14 +1368,14 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/MyCinema/sa_dash/MyCinema.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/UXDRDyf.png" group-title="FILM",HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcS8X.png" group-title="FILM",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|referrer=https://www.cubmu.com/
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://i.imgur.com/1YuV3qu.png" group-title="FILM",HBO SIGN
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjErs.png" group-title="FILM",HBO SIGN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1395,7 +1386,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|referrer=https://www.cubmu.com
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/RUcKDnD.png" group-title="FILM",HBO HITS
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjdtT.png" group-title="FILM",HBO HITS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1406,7 +1397,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/
         
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/F2sjEEx.png" group-title="FILM",HBO FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjUMr.png" group-title="FILM",HBO FAMILY
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1417,7 +1408,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|https://www.cubmu.com/
           
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/QnXRY4R.png" group-title="FILM",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm1xG.png" group-title="FILM",CINEMAX
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1429,7 +1420,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
           
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://i.imgur.com/GCJs1UQ.png" group-title="FILM",WARNER TV
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/22/hZrYf.png" group-title="FILM",WARNER TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1456,7 +1447,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxODIuMjUzLjguMTAiLCJkZXZpY2VUeXBlIjoiVW5rbm93biIsImNoYW5uZWxJZCI6ImJpb3Nrb3BpbmRvbmVzaWEiLCJzaWduYXR1cmVLZXkiOiJhODNiYTAxOGYzNTgwMmUwODQ0MmZkZjNkYTFjNmM1ZiIsInByb3ZpZGVyIjoiY3VibXUiLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTc0Mzc3MzA1OX0
 #https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxODIuMjUzLjguMTAiLCJkZXZpY2VUeXBlIjoiVW5rbm93biIsImNoYW5uZWxJZCI6ImJpb3Nrb3BpbmRvbmVzaWEiLCJzaWduYXR1cmVLZXkiOiJhODNiYTAxOGYzNTgwMmUwODQ0MmZkZjNkYTFjNmM1ZiIsInByb3ZpZGVyIjoiY3VibXUiLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTc0Mzc3MzA1OX0
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="https://i.imgur.com/3KYkYFx.png" group-title="FILM",CINEMA WORLD
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmRep.png" group-title="FILM",CINEMA WORLD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1489,6 +1480,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 https://jmp2.uk/sam-USBD17000117B.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/8uh3tyD.png" group-title="FILM",&FLIK
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjYwE.png" group-title="FILM",Rakuten Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
@@ -1538,11 +1531,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856ea34e35016ef8e9f
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685840ff049018455fce9454360/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://i.imgur.com/VK6hC8N.png" group-title="HIBURAN",K PLUS
+#EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcNu1.png" group-title="HIBURAN",K PLUS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://i.imgur.com/Y6wlppy.png" group-title="HIBURAN",ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmOXh.png" group-title="HIBURAN",ROCK ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1552,7 +1545,7 @@ http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 https://atemeshield2-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://i.imgur.com/ulpW5w4.png" group-title="HIBURAN", ONE
+#EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm6pB.png" group-title="HIBURAN", ONE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1562,7 +1555,7 @@ https://atemeshield2-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertain
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 https://atemeshield2-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://i.imgur.com/EUTuLgN.png" group-title="HIBURAN",TVN
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmnxd.png" group-title="HIBURAN",TVN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1596,7 +1589,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/FMN/sa_dash/FMN.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://i.imgur.com/muhqYPT.png" group-title="HIBURAN",TV5 MONDE Asie
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/14/Ppqfd.png" group-title="HIBURAN",TV5 MONDE Asie
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1606,7 +1599,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/FMN/sa_dash/FMN.mpd
 #KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
 https://atemeshield2-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://i.imgur.com/5D0pBWi.png" group-title="HIBURAN",TV5 MONDE Style
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/14/Ppqfd.png" group-title="HIBURAN",TV5 MONDE Style
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1655,7 +1648,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldPremium/sa_dash/NHKWorldPr
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 https://atemeshield2-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://i.imgur.com/rl9gvxo.png" group-title="HIBURAN",ARIRANG
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmPzS.png" group-title="HIBURAN",ARIRANG
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1719,7 +1712,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 ============================================================================pengetahuan=======================================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/gHDr2z6.png" group-title="PENGETAHUAN",DISCOVERY Chanhel
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po6OZ.png" group-title="PENGETAHUAN",DISCOVERY Chanhel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1729,7 +1722,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 https://atemeshield2-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/2r64qTg.png" group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoFYS.png" group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1737,7 +1730,7 @@ https://atemeshield2-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://i.imgur.com/fizL6NC.png" group-title="PENGETAHUAN",NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoBcm.png" group-title="PENGETAHUAN",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1745,7 +1738,7 @@ http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/nNCUCW5.png" group-title="PENGETAHUAN",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Poh9p.png" group-title="PENGETAHUAN",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1755,7 +1748,7 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://atemeshield2-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/JoqOiaU.png" group-title="PENGETAHUAN",LOVE NATURE
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PopGG.png" group-title="PENGETAHUAN",LOVE NATURE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1765,7 +1758,7 @@ https://atemeshield2-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
 https://atemeshield2-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://i.imgur.com/nSkS9G9.png" group-title="PENGETAHUAN",BBC EARTH
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Por1f.png" group-title="PENGETAHUAN",BBC EARTH
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1775,7 +1768,7 @@ https://atemeshield2-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/KHanamy.png" group-title="PENGETAHUAN",HISTORY
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoOhd.png" group-title="PENGETAHUAN",HISTORY
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1785,7 +1778,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mp
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 https://atemeshield2-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.imgur.com/dzGazsq.png" group-title="PENGETAHUAN",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoS4o.png" group-title="PENGETAHUAN",CRIME INVESTIGATION
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1795,7 +1788,7 @@ https://atemeshield2-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
 https://atemeshield2-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/ednZmtF.png" group-title="PENGETAHUAN",Discovery Asia
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PojOE.png" group-title="PENGETAHUAN",Discovery Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1805,7 +1798,7 @@ https://atemeshield2-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvesti
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 https://atemeshield2-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.imgur.com/1OBGfFI.png" group-title="PENGETAHUAN",DMAX
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po9wr.png" group-title="PENGETAHUAN",DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1815,7 +1808,7 @@ https://atemeshield2-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
 https://atemeshield2-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://i.imgur.com/JO6EpO1.png" group-title="PENGETAHUAN",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoJ3B.png" group-title="PENGETAHUAN",CGTN DOCUMENTARY
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1825,7 +1818,7 @@ https://atemeshield2-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=ab50469be8b740c699c6b2e2ce697447:94da89d6aefba50b779bf7aa2458a192
 https://atemeshield2-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumentaryHD.mpd
 
-#EXTINF:-1 tvg-id="GlobalTrekker.id"  tvg-logo="https://i.imgur.com/8CLsnTb.png" group-title="PENGETAHUAN", Global Trekker
+#EXTINF:-1 tvg-id="GlobalTrekker.id"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoanT.png" group-title="PENGETAHUAN", Global Trekker
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1835,19 +1828,10 @@ https://atemeshield2-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumentary
 #KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
 https://atemeshield2-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ieROWXI.png" group-title="PENGETAHUAN", INSIGHT TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0GoyWTm.png" group-title="PENGETAHUAN",Wild Earth
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://wildearth-roku.amagi.tv/master.m3u8
 
 ==========================================================================================lifeitil======================================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.imgur.com/XPTr6fh.png" group-title="GAYA HIDUP",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Poi3D.png" group-title="GAYA HIDUP",HGTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1877,17 +1861,17 @@ https://atemeshield2-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemeshield2-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.imgur.com/nOAYz2P.png" group-title="GAYA HIDUP",FASHION TV
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoGnC.png" group-title="GAYA HIDUP",FASHION TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV MIDNIGHT" tvg-logo="https://i.imgur.com/qAlEG5f.png" group-title="GAYA HIDUP",FASHION TV MIDNIGHT
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV MIDNIGHT" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="GAYA HIDUP",FASHION TV MIDNIGHT
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://i.imgur.com/Oh3bWgD.png" group-title="GAYA HIDUP",LIFETIME
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PofAi.png" group-title="GAYA HIDUP",LIFETIME
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1897,7 +1881,7 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Lifetime/sa_dash/Lifetime.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/8yprb8H.png" group-title="GAYA HIDUP",MTV LIVE
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PobRY.png" group-title="GAYA HIDUP",MTV LIVE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1907,7 +1891,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Lifetime/sa_dash/Lifetime.mpd|Refe
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemeshield2-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
-#EXTINF:-1 tvg-id="MTV.HITS.uk" tvg-logo="https://i.imgur.com/YqKO5nG.png" group-title="GAYA HIDUP",MTV Hits
+#EXTINF:-1 tvg-id="MTV.HITS.uk" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PobRY.png" group-title="GAYA HIDUP",MTV Hits
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1917,7 +1901,7 @@ https://atemeshield2-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd
 
-#EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://i.imgur.com/6fqfDWW.png" group-title="GAYA HIDUP",MTVU
+#EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PobRY.png" group-title="GAYA HIDUP",MTVU
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1949,7 +1933,7 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.samsung.com&referer=https://www.samsung.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://jmp2.uk/sam-CA3900002PM.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC TV" tvg-logo="https://i.imgur.com/rkxOslJ.png" group-title="GAYA HIDUP",MUSIC TV
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoYwm.png" group-title="GAYA HIDUP",MUSIC TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1959,7 +1943,7 @@ https://jmp2.uk/sam-CA3900002PM.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash/MusicChannel.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="NOW 90s" tvg-logo="https://i.imgur.com/aELxI3y.png" group-title="GAYA HIDUP",mtv 90s
+#EXTINF:-1 tvg-id="" tvg-name="NOW 90s" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Pogox.png" group-title="GAYA HIDUP",mtv 90s
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1984,20 +1968,6 @@ https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rock & Roll" tvg-logo="https://i.imgur.com/bDtScS6.png" group-title="GAYA HIDUP",NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
           
-#EXTINF:-1 tvg-id="" tvg-name="Kaloopy TV" tvg-logo="https://i.imgur.com/upP6N94.png" group-title="GAYA HIDUP",Kaloopy TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Jenny Live" tvg-logo="https://i.imgur.com/BhCWt3F.png" group-title="GAYA HIDUP",Jenny Live
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://cors-proxy.cooks.fyi/https://5ee7c2b857b7f.streamlock.net/jennylive/smil:WEB3131/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Miami Tv" tvg-logo="https://i.imgur.com/eEKJJ4Q.png" group-title="GAYA HIDUP",MIAMI TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cors-proxy.cooks.fyi/https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-
 #EXTINF:-1 tvg-id="I-Konser.id" tvg-logo="https://i.imgur.com/paMMW1f.png" group-title="GAYA HIDUP",Prambos
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -2018,7 +1988,7 @@ https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-logo="https://i.imgur.com/Vi9WRdq.png" group-title="GAYA HIDUP",Celebrities TV
+#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po2Yu.png" group-title="GAYA HIDUP",Celebrities TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
