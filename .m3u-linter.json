@@ -690,7 +690,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="ASWAJA TV" tvg-logo="https://postimage.me/image/aswaja.USXFIV" group-title="TV AGAMA",ASWAJA
+#EXTINF:-1 tvg-id="" tvg-name="ASWAJA TV" tvg-logo="https://i.imghippo.com/files/QSkr3141CkM.png" group-title="TV AGAMA",ASWAJA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
@@ -715,7 +715,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 
-#EXTINF:-1 tvg-name="AL QURAN AL KAREEM" tvg-logo="https://i.imgur.com/Po69dBq.png" group-title="TV AGAMA",AL QURAN AL KAREEM
+#EXTINF:-1 tvg-name="AL QURAN AL KAREEM" tvg-logo="https://i.imghippo.com/files/OfeI3470o.png" group-title="TV AGAMA",AL QURAN AL KAREEM
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
