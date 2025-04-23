@@ -445,7 +445,7 @@ https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.dens.tv&referer=https://www.dens.tv/&user-agent=DENSGO/3.00.05 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/tujAK9S.png" group-title="TV NASIONAL",Hanacaraka TV
+#EXTINF:-1  tvg-logo="https://postimage.me/image/hana.USXHMW" group-title="TV NASIONAL",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -614,7 +614,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.dens.tv&referer=https://www.dens.tv/&user-agent=DENSGO/3.00.05 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
-#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://i.imgur.com/wbCLnj7.png" group-title="TV NASIONAL",Channel Jowo
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://postimage.me/image/jowo.USXPBN" group-title="TV NASIONAL",Channel Jowo
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -680,7 +680,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 ===================================================================religi===============================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="MUSLIM TV" tvg-logo="https://i.imgur.com/Wb3Cs0G.png" group-title="TV AGAMA",MUSLIM TV
+#EXTINF:-1 tvg-id="" tvg-name="MUSLIM TV" tvg-logo="https://postimage.me/image/muslim.USXKKy" group-title="TV AGAMA",MUSLIM TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -690,7 +690,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="ASWAJA TV" tvg-logo="https://i.imgur.com/6hePTJK.png" group-title="TV AGAMA",ASWAJA
+#EXTINF:-1 tvg-id="" tvg-name="ASWAJA TV" tvg-logo="https://postimage.me/image/aswaja.USXFIV" group-title="TV AGAMA",ASWAJA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
