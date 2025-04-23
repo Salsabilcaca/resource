@@ -614,7 +614,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.dens.tv&referer=https://www.dens.tv/&user-agent=DENSGO/3.00.05 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
-#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://postimage.me/image/jowo.USXPBN" group-title="TV NASIONAL",Channel Jowo
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://iili.io/3GkL1Lv.md.png" group-title="TV NASIONAL",Channel Jowo
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
