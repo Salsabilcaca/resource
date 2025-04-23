@@ -680,7 +680,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 ===================================================================religi===============================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="MUSLIM TV" tvg-logo="https://postimage.me/image/muslim.USXKKy" group-title="TV AGAMA",MUSLIM TV
+#EXTINF:-1 tvg-id="" tvg-name="MUSLIM TV" tvg-logo="https://postimage.me/images/2025/04/23/muslim.png" group-title="TV AGAMA",MUSLIM TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -694,7 +694,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd|Re
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="https://i.imgur.com/J1BQVlK.png" group-title="TV AGAMA",MUI TV
+#EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="https://postimage.me/images/2025/04/23/mui.png" group-title="TV AGAMA",MUI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
