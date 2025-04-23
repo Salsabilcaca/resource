@@ -445,7 +445,7 @@ https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.dens.tv&referer=https://www.dens.tv/&user-agent=DENSGO/3.00.05 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
 
-#EXTINF:-1 tvg-id="Hanacaraka TV" tvg-name="Hanacaraka TV" tvg-logo="https://iili.io/3GkPlIf.md.png" group-title="TV NASIONAL",Hanacaraka TV
+#EXTINF:-1 tvg-id="Hanacaraka TV" tvg-name="Hanacaraka TV" tvg-logo="https://i.imghippo.com/files/yd7005FN.png" group-title="TV NASIONAL",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -614,7 +614,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.dens.tv&referer=https://www.dens.tv/&user-agent=DENSGO/3.00.05 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
-#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://iili.io/3GkL1Lv.md.png" group-title="TV NASIONAL",Channel Jowo
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://i.imghippo.com/files/GQm8432As.png" group-title="TV NASIONAL",Channel Jowo
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
