@@ -2452,25 +2452,28 @@ https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
-
+#https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
+https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/31/hi3ES.png" group-title="Semprotan1",Star Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=342972045bddbc97f43cc3c841cdc6b9:3ca2eb502e8746168c77ad9a506bb293
-https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
+#https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
+http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/31/hi3ES.png" group-title="Semprotan1",Star Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79b340b2b5f7c3c89951daabde7cdf97:3e22bc39d22a7f8c3516f6b58b144668
-https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
+#https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
+https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/segment_u8vqom2v3_ctvideo_cfm4s_ridp0va0br500000_cs3650445270_mpd.m4s?nimblesessionid=1734424565
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/31/hi3ES.png" group-title="Semprotan1",Star Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 #https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
 
 #EXTINF:-1 group-title="Semprotan1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDZOR.png",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
