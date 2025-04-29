@@ -1041,8 +1041,11 @@ http://mpwtv.github.io/bad.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
+
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 5
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true7.m3u8
+
+
 ======================timnas=============================
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas01
@@ -3159,6 +3162,15 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+#EXTINF:-1 group-title="Semprotan1" tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/MDCgs8P.png",Dubai Sports 1 
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
+
+#EXTINF:-1 group-title="Semprotan1" tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/MDCgs8P.png",Dubai Sports 2 
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
+
+#EXTINF:-1 group-title="Semprotan1" tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/MDCgs8P.png",Dubai Sports 3 
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
 
 
 
