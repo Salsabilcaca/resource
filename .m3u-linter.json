@@ -1276,7 +1276,7 @@ https://terabit.web.id/media.mpd?id=2&type=dash
 https://terabit.web.id/media.mpd?id=3&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjBcE.png" group-title="TV NASIONAL",iNEWS
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
