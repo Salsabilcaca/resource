@@ -1224,7 +1224,7 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidiowv.stviptv-21.workers.dev/widevine.dash/?id=9182
-https://red.openwindows038.workers.dev/play.mpd?id=9182|referer=https://www.vidio.com/
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182|referer=https://www.vidio.com/
 
 
 ===================================================={{{{live}}}}========================================
