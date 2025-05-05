@@ -1125,7 +1125,10 @@ https://apisportzz179528093.nsnd.live/IDIU0Um4oCPz47LmYf7qsQ/Fv2lucGIbhPi2caWYvF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 #https://av-cdn.rakuda.online/memfs/111cc22c-a1d4-42fd-8f24-df9137c550a8.m3u8
-https://raw.githubusercontent.com/warningfm/kano/refs/heads/main/video/ts/205.m3u8
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
 =================================================bola====================================================================
@@ -1270,6 +1273,27 @@ https://vidiohls.stviptv-21.workers.dev/stream.m3u8?id=205|referer=https://www.v
 #KODIPROP:inputstream.adaptive.license_key=https://bypredwidevine.stviptv0012.workers.dev/widevine.dash?id=204
 https://vidiohls.stviptv-21.workers.dev/stream.m3u8?id=204&type=dash
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
+
+#EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjLRD.png" group-title="TV NASIONAL",TRANS 7 Lokal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
+
+#EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pjx38.png" group-title="TV NASIONAL",TRANS TV Lokal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
+
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjZNz.png" group-title="TV NASIONAL",RCTI Lokal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PmzLS.png" group-title="TV NASIONAL",Moji Lokal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1        
@@ -3124,9 +3148,7 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fa2127117f754ab9a74fb6be7949429:8797d5178620c79676ffccec41d2d3f6
-#https://jiolivestreaming.akamaized.net/bpk-tv/MTV_Beats_HD_voot_MOB/output/index.mpd
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1741591702~acl=%2f*~data=hdntl~hmac=4a62fdb483f3d28a3f341ce4fdc75831597ba3cd81b5b0deff094fb4734727a9/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=3728000.m3u8
-
+http://172.16.88.30:18190/sports18/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpJf8.png" group-title="Semprotan1",True Premier Football 1 
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
