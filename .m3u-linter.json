@@ -3735,7 +3735,7 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-https://cors.isteed.cc/https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
+https://cors-get-proxy.sirjosh.workers.dev/https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
 
 
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hH4tZ.png",TV2 Sport
