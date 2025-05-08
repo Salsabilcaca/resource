@@ -3248,25 +3248,71 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=126&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-logo="", group-title="Semprotan1",Astro PL-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
+#http://xtv.ooo:8080/djshub654@/djshub456@/352087
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-logo="", group-title="Semprotan1",Astro PL-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+#http://xtv.ooo:8080/djshub654@/djshub456@/352088
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-logo="", group-title="Semprotan1",Astro Granstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+#http://xtv.ooo:8080/djshub654@/djshub456@/352089
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-logo="", group-title="Semprotan1",Astro Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.newkso.ru/wind/premium124/mono.m3u8
+#http://xtv.ooo:8080/djshub654@/djshub456@/352090
+
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="Semprotan1",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2604/default_primary.mpd
+#https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="Semprotan1",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5057/default_primary.mpd
+#https://kiwkiw.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 ======================================================================semprotan2===================================================================
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Pa25o.png" group-title="Semprotan2",Tennis Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/Pa4QB.png" group-title="Semprotan2",Motorvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaGXY.png",BILLIARD TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaGXY.png",BILLIARD TV-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaGXY.png",BILLIARD TV-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaGXY.png",BILLIARD TV-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="unifiSports1.My" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaMUi.png" group-title="Semprotan2",Pfl UFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8
 #EXTINF:-1 tvg-id="unifiSports1.My" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PakBh.png" group-title="Semprotan2",Boxing TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PDUM2.png" group-title="Semprotan2", mu tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r\u003dajax
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PDdzx.png" group-title="Semprotan2", Real Madrid TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDr1Y.png",DAZN 01 ES  
@@ -3305,7 +3351,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
+#https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDcCG.png",TNT Sports 2 
 #EXTGRP:Semprotan2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
@@ -3340,12 +3386,15 @@ https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/gesdwrdncn/out/v1/79e752f
 
 
 #EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDOn2.png",BEIN SPORTS XTRA Ñ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250118
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://i.imgur.com/2JVSzSZ.png",FOX DEPORTES ESPAÑOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250118
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://i.imgur.com/2JVSzSZ.png",FOX DEPORTES USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250118
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1  group-title="Semprotan2"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PphFi.png",FOX SPORTS
@@ -3458,44 +3507,38 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 #https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z8NwDqu.png" group-title="Semprotan2",tsn1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-#https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn1.m3u8
+#KODIPROP:inputstream.adaptive.license_key=8df41512092240d38550e83dc05e157e:f29f106ec9f58b41c7c8391b64f3bb25
+https://live-cito.9c9media.ca/e6355057b4828b7b44134a35c3899ae7876f9ce91738223229770/f/tsn1/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z8NwDqu.png" group-title="Semprotan2",tsn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-#https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn2.m3u8
+#KODIPROP:inputstream.adaptive.license_key=885df0ea68814a11a3dd7718725f4075:ab3698f738c4b90c11de7239cb5ed7c1
+https://live-cito.9c9media.ca/0947ad1fd5b8c6098a9e60f3c27b87d2e42ba5571738223303096/f/tsn2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z8NwDqu.png" group-title="Semprotan2",tsn3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-#https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn3.m3u8
+#KODIPROP:inputstream.adaptive.license_key=473177ea3d394060a0d0c266521ffd68:cb6366270ecf03b7b80aae491ef9d618
+https://live-cito.9c9media.ca/0327565ea922ea2b67e74415fad16c7480c3fe4c1738223326649/f/tsn3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z8NwDqu.png" group-title="Semprotan2",tsn4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
-#https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn4.m3u8
+#KODIPROP:inputstream.adaptive.license_key=7c6872a2902a4617b878999bf32ccf87:fc53eba9d731de52e83a23d98bea304a
+https://live-cito.9c9media.ca/9b36454b2e12f9448e4b274dae09afaf77de7f3d1738223354269/f/tsn4/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z8NwDqu.png" group-title="Semprotan2",tsn5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-#https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/tsn5.m3u8
+#KODIPROP:inputstream.adaptive.license_key=f4608dc9b6164cd7b96791af91cc334c:8d4bc6537629d3f7ad5aa4e75516f6da
+https://live-cito.9c9media.ca/d4394f4d0bffe46942a2afeacbf27958d914e2051738223371866/f/tsn5/manifest.mpd
 
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDmeR.png" group-title="Semprotan2",Sport TV 1 Brasil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -3682,7 +3725,17 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Um9MCLw.png" group-title="Semprotan2", FUBO SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Um9MCLw.png" group-title="Semprotan2", FUBO SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
 #EXTINF:-1  group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpBP2.png", ESPN 1 
@@ -3741,13 +3794,19 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
 #https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
 
-#EXTINF:-1  group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hH4tZ.png",TV2 Sport
+#EXTINF:-1  group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hH4tZ.png",TV2 Sport-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
+
+#EXTINF:-1  group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hH4tZ.png",TV2 Sport-2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1b129c0dbe948d4dfa5ed80db4f3bc20":"2017f15fb60a08d12e4989071a14a636","1b129c0dbe948d4dfa5ed80db4f3bc10":"bccb0cd2d2191c5a2e1528140651db29"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportskanalen_live/sm_tv2sportskanalen_live.isml/playlist.mpd
 
 #EXTINF:-1 group-title="Semprotan2" tvg-id="spotv2.kr" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/Pvzc3.png",Vsport-Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
