@@ -3248,25 +3248,25 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=126&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-logo="", group-title="Semprotan1",Astro PL-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-logo="", group-title="Semprotan1",Astro PL-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 #http://xtv.ooo:8080/djshub654@/djshub456@/352087
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-logo="", group-title="Semprotan1",Astro PL-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-logo="", group-title="Semprotan1",Astro PL-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 #http://xtv.ooo:8080/djshub654@/djshub456@/352088
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-logo="", group-title="Semprotan1",Astro Granstand
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-logo="", group-title="Semprotan1",Astro Granstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 #http://xtv.ooo:8080/djshub654@/djshub456@/352089
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-logo="", group-title="Semprotan1",Astro Football
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-logo="", group-title="Semprotan1",Astro Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.newkso.ru/wind/premium124/mono.m3u8
@@ -3806,7 +3806,7 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1b129c0dbe948d4dfa5ed80db4f3bc20":"2017f15fb60a08d12e4989071a14a636","1b129c0dbe948d4dfa5ed80db4f3bc10":"bccb0cd2d2191c5a2e1528140651db29"}
-https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportskanalen_live/sm_tv2sportskanalen_live.isml/playlist.mpd
+#https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportskanalen_live/sm_tv2sportskanalen_live.isml/playlist.mpd
 
 #EXTINF:-1 group-title="Semprotan2" tvg-id="spotv2.kr" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/19/Pvzc3.png",Vsport-Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
