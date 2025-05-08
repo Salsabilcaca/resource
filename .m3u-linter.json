@@ -1575,9 +1575,6 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:0 tvg-id="MADU TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjWOp.png" group-title="TV NASIONAL",MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Btv" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjqtC.png" group-title="TV NASIONAL",BTV
-#https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/23/hRcWs.png" group-title="TV NASIONAL",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
@@ -2400,11 +2397,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.samsung.com&referer=https://www.samsung.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
-https://jmp2.uk/sam-USBD17000117B.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=baeee42f-2be6-11f0-9133-b22afad634dd
 
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/8uh3tyD.png" group-title="FILM",&FLIK
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjYwE.png" group-title="FILM",Rakuten Action Movies
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 
 
 
@@ -2920,6 +2918,38 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685730a4243017317dee
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PovV3.png" group-title="GAYA HIDUP",Nagaswara Dancedut
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PovV3.png" group-title="GAYA HIDUP",Nagaswara Dangdut Koplo
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PovV3.png" group-title="GAYA HIDUP",Nagaswara POP
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PocC1.png" group-title="GAYA HIDUP",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PooDX.png" group-title="GAYA HIDUP",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoX7N.png" group-title="GAYA HIDUP",Stingray Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po3CW.png" group-title="GAYA HIDUP",Beach_TV_Florida_&_Alabama
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po3CW.png" group-title="GAYA HIDUP",Beach_TV_Myrtle_Beach_&_The_Grand_Strand
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po3CW.png" group-title="GAYA HIDUP",Beach_TV_Panama_City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po3CW.png" group-title="GAYA HIDUP",Palm_Beaches_TV
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https:https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="GAYA HIDUP",Fashion_Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0off.png" group-title="GAYA HIDUP",BAYWATCH
+https://stitcher.pluto.tv/stitch/hls/channel/62bdae69a47b6c00076af298/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=baeee42f-2be6-11f0-9133-b22afad634dd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oX7Bh3q.png" group-title="GAYA HIDUP",Ninja Warrior
+https://stitcher.pluto.tv/stitch/hls/channel/66d7152b167a8b0008fd3569/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=baeee42f-2be6-11f0-9133-b22afad634dd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/erOL07f.png" group-title="GAYA HIDUP",Fear Factor
+https://stitcher.pluto.tv/stitch/hls/channel/63482674df87730007656044/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=baeee42f-2be6-11f0-9133-b22afad634dd
+
 
 
 
