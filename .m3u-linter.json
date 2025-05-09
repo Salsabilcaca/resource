@@ -2404,6 +2404,19 @@ https://stitcher.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 
+#EXTINF:1 tvg-logo="https://i.imgur.com/5JyKxYV.png" group-title="FILM",&FLIX HD 
+https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
+#http://192.168.1.6:8080/live.php?id=1322&key=JITENDRAUNATTI&e=.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/UjagzZV.png" group-title="FILM",&PRIVE HD 
+https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
+#https://la.drmlive.au/tp/zee-9z5543514.m3u8
+#http://192.168.1.6:8080/live.php?id=1349&key=JITENDRAUNATTI&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iQX9i1O.png" group-title="FILM",&XPLOR HD
+https://live.drmlive-02.workers.dev/zee/209.m3u8
+
+
 
 
 =========================================================================hiburan=============================================================================================================================================
@@ -2938,7 +2951,7 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po3CW.png" group-title="GAYA HIDUP",Palm_Beaches_TV
 https://live.feed.thepalmbeaches.tv/index.m3u8
-#EXTINF:-1 tvg-logo="https:https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="GAYA HIDUP",Fashion_Finds
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PoTSf.png" group-title="GAYA HIDUP",Fashion_Finds
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0off.png" group-title="GAYA HIDUP",BAYWATCH
 https://stitcher.pluto.tv/stitch/hls/channel/62bdae69a47b6c00076af298/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=baeee42f-2be6-11f0-9133-b22afad634dd
@@ -3309,10 +3322,16 @@ https://windnew.newkso.ru/wind/premium124/mono.m3u8
 #http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDitr.png" group-title="Semprotan1",Eleven_1_taiwan
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
-https://us.dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&timestamp=1691405066&rand=lDgfOC4s2f&uuid=9b647b3816b2a66a&from=web&sign=e2c2fbe2763a204599dc3aefeaaf2a8f
+#https://us.dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&timestamp=1691405066&rand=lDgfOC4s2f&uuid=9b647b3816b2a66a&from=web&sign=e2c2fbe2763a204599dc3aefeaaf2a8f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDitr.png" group-title="Semprotan1",Eleven_2_taiwan
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
-https://us.dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&timestamp=1690903986&rand=vXFVUVFSko&uuid=9b647b3816b2a66a&from=web&sign=2248b184e8c32c09539225600b19ce41
+#https://us.dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&timestamp=1690903986&rand=vXFVUVFSko&uuid=9b647b3816b2a66a&from=web&sign=2248b184e8c32c09539225600b19ce41
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pLKvJok.png" group-title="Semprotan1",Willow Sport HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
 
 
 ======================================================================semprotan2===================================================================
