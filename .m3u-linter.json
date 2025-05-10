@@ -3328,6 +3328,7 @@ https://windnew.newkso.ru/wind/premium124/mono.m3u8
 #https://us.dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&timestamp=1690903986&rand=vXFVUVFSko&uuid=9b647b3816b2a66a&from=web&sign=2248b184e8c32c09539225600b19ce41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pLKvJok.png" group-title="Semprotan1",Willow Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
