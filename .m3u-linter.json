@@ -1595,8 +1595,9 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4
-https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 https://fta4-cdn-flr.visionplus.id//live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="ASWAJA TV" tvg-logo="https://i.imghippo.com/files/QSkr3141CkM.png" group-title="TV AGAMA",ASWAJA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
