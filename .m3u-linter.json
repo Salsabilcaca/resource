@@ -2428,7 +2428,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.samsung.com&referer=https://www.samsung.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://stitcher.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=baeee42f-2be6-11f0-9133-b22afad634dd
 
-#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/8uh3tyD.png" group-title="FILM",&FLIK
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjYwE.png" group-title="FILM",Rakuten Action Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
@@ -3172,7 +3171,7 @@ https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=342972045bddbc97f43cc3c841cdc6b9:3ca2eb502e8746168c77ad9a506bb293
 #https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
 http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
-
+http://103.120.172.74:4600
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEUfgUN.png" group-title="Semprotan1",Star Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3242,7 +3241,8 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fa2127117f754ab9a74fb6be7949429:8797d5178620c79676ffccec41d2d3f6
-http://172.16.88.30:18190/sports18/tracks-v1a1/mono.m3u8
+#http://172.16.88.30:18190/sports18/tracks-v1a1/mono.m3u8
+https://live.drmlive-02.workers.dev/jc/122.m3u8
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/13/PpJf8.png" group-title="Semprotan1",True Premier Football 1 
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
