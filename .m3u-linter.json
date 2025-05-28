@@ -1163,9 +1163,8 @@ https://red.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6317
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6317&type=drm 
 https://red.openwindows038.workers.dev/play.mpd?id=6317&type=dash
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 05
@@ -1179,11 +1178,11 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdh
 ==========================gp============================
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png" group-title="Live Event",#Live GP2
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17140
-https://red.openwindows038.workers.dev/play.mpd?id=17140
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17140&type=drm 
+https://red.openwindows038.workers.dev/play.mpd?id=17140&type=dash
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png" group-title="Live Event",#Live GP1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
