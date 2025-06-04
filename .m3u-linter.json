@@ -1065,7 +1065,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-https://fta4-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas03
@@ -1083,8 +1082,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas05
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rcti.m3u8
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas06
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
@@ -2428,16 +2427,19 @@ https://stitcher.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/5JyKxYV.png" group-title="FILM",&FLIX HD 
-#https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
-https://newhub247.store/newsh/live.m3u8?id=1322
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/UjagzZV.png" group-title="FILM",&PRIVE HD 
-#https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
-https://newhub247.store/newsh/live.m3u8?id=1349
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iQX9i1O.png" group-title="FILM",&XPLOR HD
-#https://live.drmlive-02.workers.dev/zee/209.m3u8
-https://newhub247.store/newsh/live.m3u8?id=1668
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://live.drmlive-02.workers.dev/zee/209.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcS8X.png" group-title="FILM",HBO id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
