@@ -1201,11 +1201,15 @@ https://unifi-live10.secureswiftcontent.com/UnifiHD/live10.mpd
 https://av-cdn.rakuda.online:8443/memfs/14fbf51e-3ae6-455f-bc12-5b14ba9918ca.m3u8
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
-#https://red.openwindows038.workers.dev/stream.m3u8?id=206|referer=https://www.vidio.com/
-https://red.openwindows038.workers.dev/play.m3u8?id=206|referer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+https://red.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
