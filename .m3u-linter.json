@@ -1082,9 +1082,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas05
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rcti.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rcti.m3u8
 
-#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas06
+#EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pmfzu.png" group-title="Live Event",Live Timnas05
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://liveplus.rctiplus.id/RTMP-IN.m3u8&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1178,9 +1178,12 @@ https://red.openwindows038.workers.dev/play.mpd?id=6317&type=dash
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 05
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
-https://cors.svaren.dev/https://linear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd
+#https://cors.svaren.dev/https://linear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd
 
 
 ==========================gp============================
@@ -1284,7 +1287,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_
 #https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205&type=dash
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts 
-#https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
+https://cdngb196.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj8Yx.png" group-title="TV NASIONAL",SCTV LOKAL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1        
@@ -1293,7 +1296,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bypredwidevine.stviptv0012.workers.dev/widevine.dash?id=204
 #https://vidiohls.stviptv-21.workers.dev/stream.m3u8?id=204&type=dash
-#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
+https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjLRD.png" group-title="TV NASIONAL",TRANS 7 Lokal
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1308,7 +1311,7 @@ https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
+https://cdngb196.indihometv.com/atm/hlsv3/transtv/transtv-avc1_800000=3-mp4a_96000=5.m3u8
 
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjZNz.png" group-title="TV NASIONAL",RCTI Lokal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1594,7 +1597,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=100
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
-#https://cdn08jtedge.indihometv.com/dassdvr/133/useeprime/manifest.mpd
+https://cdngb196.indihometv.com/joss/194/maxstream/chunklist_w2072669644_b2544100_sleng.m3u8?enc=5TfPn1d68UalKoVvi2ooqg&uid=&exp=1739600138
 
 #EXTINF:0 tvg-id="MADU TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjWOp.png" group-title="TV NASIONAL",MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
@@ -2430,7 +2433,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0555b
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn11jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+https://cdngb196.indihometv.com/joss/133/flik/chunklist_w1507664831_b1544100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://i.imgur.com/se7g9ig.png" group-title="FILM",MovieSphere
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
