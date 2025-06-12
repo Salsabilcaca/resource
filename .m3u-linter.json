@@ -1205,10 +1205,9 @@ https://unifi-live10.secureswiftcontent.com/UnifiHD/live10.mpd
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://jlbfpc.jlbfyh.com
-#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://bf.jabflive.cc/live/5004432_hd01.m3u8?txSecret=e3651f6e5c27f94244cd2c47d1a17eb8&txTime=684521c1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2db8ec9fcc1bf1cebb260800bbff5d1d:31d4a7d5a32bb635b11bbc929f75bcba
+https://optus.apigateway.web.id/optus/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -2462,31 +2461,45 @@ https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://live.drmlive-02.workers.dev/zee/209.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcS8X.png" group-title="FILM",HBO id
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcS8X.png" group-title="FILM",HBO f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjErs.png" group-title="FILM",HBO SIGN id
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjErs.png" group-title="FILM",HBO SIGN f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjdtT.png" group-title="FILM",HBO HITS id
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjdtT.png" group-title="FILM",HBO HITS f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
-        
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjUMr.png" group-title="FILM",HBO FAMILY id
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjUMr.png" group-title="FILM",HBO FAMILY f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
           
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm1xG.png" group-title="FILM",CINEMAX id
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm1xG.png" group-title="FILM",CINEMAX f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 =========================================================================hiburan=============================================================================================================================================
 
