@@ -1311,7 +1311,7 @@ https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://cdngb196.indihometv.com/atm/hlsv3/transtv/transtv-avc1_800000=3-mp4a_96000=5.m3u8
+https://cdngb196.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjZNz.png" group-title="TV NASIONAL",RCTI Lokal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1597,7 +1597,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=100
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
-https://cdngb196.indihometv.com/joss/194/maxstream/chunklist_w2072669644_b2544100_sleng.m3u8?enc=5TfPn1d68UalKoVvi2ooqg&uid=&exp=1739600138
+https://streaming.indihometv.com/atm/DASH/maxstream/manifest.mpd
 
 #EXTINF:0 tvg-id="MADU TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjWOp.png" group-title="TV NASIONAL",MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
