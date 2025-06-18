@@ -3573,34 +3573,41 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Tim-Bola/B-inal22/MilanTV.m3u
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
 https://raw.githubusercontent.com/B-inalm3u-Custom/Tim-Bola/B-inal22/InterTV.m3u8
 
-#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDr1Y.png",DAZN 01 ES  
+#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDr1Y.png",DAZN 01 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
 
-#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PD6Oi.png",DAZN 02 ES
+#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PD6Oi.png",DAZN 02 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
 
-#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDBoh.png",DAZN 1 DE
+#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDBoh.png",DAZN 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
-https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-582/stream.mpd
 
-#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDFYz.png",DAZN 2 DE
-#EXTINF:-1 group-title="Semprotan2" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",DAZN LaLiga 
+#EXTINF:-1 group-title="Semprotan2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDFYz.png",DAZN 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDsVT.png",TNT Sports 1 
 #EXTGRP:Semprotan2 
