@@ -1259,9 +1259,8 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qv
 https://red.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:-1 group-title="Live Event" tvg-id="UEFA" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png", FIFA CLUB-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=fifa2&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tudn2.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-id="UEFA" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png", FIFA CLUB-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -1278,6 +1277,13 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 #EXTINF:-1 group-title="Live Event" tvg-id="UEFA" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png", FIFA CLUB-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 group-title="Live Event" tvg-id="UEFA" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png", FIFA CLUB-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dazn1.m3u8
+
+
+
 ===================================================={{{{live}}}}========================================
 
 
