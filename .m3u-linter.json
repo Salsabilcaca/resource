@@ -2284,10 +2284,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=204
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=204
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmZa3.png" group-title="FILM",ZEE BIOSKOP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2483,9 +2482,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/5JyKxYV.png" group-title="FILM",&FLIX HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9e85ca825803ede9e74857641217620:3e6d412381aea91f047e3d912660825a
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX2ZsaXgvbmRhc2hkLw==:Expires=1750813223:KeyName=iptv-prod-media-cdn-keys:Signature=MWF2I7Yx7Iq-kfpedY26zrNQw0Lb0gmc3TQmSqIb6xcVmyr6WGrPgZDw0pf0hR7CvXPjER4yakJJuq7D2CogCQ=="}
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med15-2/and_flix/ndashd/and_flix.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX2ZsaXgvbmRhc2hkLw==:Expires=1750813223:KeyName=iptv-prod-media-cdn-keys:Signature=MWF2I7Yx7Iq-kfpedY26zrNQw0Lb0gmc3TQmSqIb6xcVmyr6WGrPgZDw0pf0hR7CvXPjER4yakJJuq7D2CogCQ==
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=155990&extension=ts
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:A7:51:3D&stream=155990&extension=m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/UjagzZV.png" group-title="FILM",&PRIVE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
@@ -2495,7 +2498,19 @@ https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iQX9i1O.png" group-title="FILM",&XPLOR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://live.drmlive-02.workers.dev/zee/209.m3u8
+#https://live.drmlive-02.workers.dev/zee/209.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=292a69002b353485998153ebb37d7946:ba27a317790d6b06f7497695d0b61ca9
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX3BpY3R1cmVzL25kYXNoZC8=:Expires=1750811598:KeyName=iptv-prod-media-cdn-keys:Signature=Ijx-7jPaPO24WijjwWpKf_vTm1MqZPqlBWMKyqFl6vlXRMSAzvN8ONw1Zds6uC3pUEeEdfsdGixMQqGnqqw3DQ=="}
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med15-2/and_pictures/ndashd/and_pictures.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX3BpY3R1cmVzL25kYXNoZC8=:Expires=1750811598:KeyName=iptv-prod-media-cdn-keys:Signature=Ijx-7jPaPO24WijjwWpKf_vTm1MqZPqlBWMKyqFl6vlXRMSAzvN8ONw1Zds6uC3pUEeEdfsdGixMQqGnqqw3DQ==
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/UjagzZV.png" group-title="FILM",&sony pix
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b744ae0cabae3998bbfbd778d537f049:9d10c52b46a7d909b69c4d5edf569b5a
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9zb255X3BpeC9uZGFzaGQv:Expires=1750811598:KeyName=iptv-prod-media-cdn-keys:Signature=Zh4aLvhgHzkwT5b-rJ8bqMwollUrTc02LqsVsSnp1tZ0jOF2zmN4e88eIoKNCMagRCAZ5-pKdoMYtZA5E_U9Aw=="}
+https://companion-live-play1.streamready.in/live/med4-2/sony_pix/ndashd/sony_pix.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDQtMi9zb255X3BpeC9uZGFzaGQv:Expires=1750811598:KeyName=iptv-prod-media-cdn-keys:Signature=Zh4aLvhgHzkwT5b-rJ8bqMwollUrTc02LqsVsSnp1tZ0jOF2zmN4e88eIoKNCMagRCAZ5-pKdoMYtZA5E_U9Aw==
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/PcS8X.png" group-title="FILM",HBO f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
