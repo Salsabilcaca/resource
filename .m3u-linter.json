@@ -3243,14 +3243,6 @@ https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/31/hi3ES.png" group-title="Semprotan1",Star Sport Select 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6017d0514d425fa38f6e80ba6dcc852f:0018944b00adf2078f62386f30c68b74
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1751235808~exp=1751322208~acl=/*~hmac=d66a1adaf1dc0128a6c7ec14e793e09a03524beac0c4f02d1960b2cf8811e27b
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd?%7Ccookie=__hdnea__=st=1751235808~exp=1751322208~acl=/*~hmac=d66a1adaf1dc0128a6c7ec14e793e09a03524beac0c4f02d1960b2cf8811e27b
-
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-#https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEUfgUN.png" group-title="Semprotan1",Star Sport 1
