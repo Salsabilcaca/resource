@@ -1714,10 +1714,15 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89ffbda79fd7216a4c1d1718e665d8ba:f2af50f1f91dd427c639f6e358912dbf
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19035/file/drm/dash/19035_stream.mpd?hdntl=exp=1751978492~acl=%2fstream%2f19035%2ffile%2f*~id=157812403~data=hdntl~hmac=7def394bea26f24eb54ebfa5cc88d89d148d6a1cfb16635fb4d8d7174e354d8d
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19035/file/drm/dash/19035_stream.mpd?hdntl=exp=1751978492~acl=%2fstream%2f19035%2ffile%2f*~id=157812403~data=hdntl~hmac=7def394bea26f24eb54ebfa5cc88d89d148d6a1cfb16635fb4d8d7174e354d8d
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/eY_uKbg7Rc91s1vVYl3nug/Fv2lucGIbhPi2caWYvF5Lg/1752155835762/live/caSD/chunklist.m3u8
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 04
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18162/file/live/18162/master.m3u8?hdnts=exp=1751965875~acl=/stream/18162/file/*~id=allUsers~hmac=668a5c6642ccca3c6f40884676a67d8c1872cfb8e69c95f92495c0b30c8268b2
-
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18162/file/live/18162/master.m3u8?hdnts=exp=1751965875~acl=/stream/18162/file/*~id=allUsers~hmac=668a5c6642ccca3c6f40884676a67d8c1872cfb8e69c95f92495c0b30c8268b2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
 
 =======================================================================================anakan=====================================================================
 
