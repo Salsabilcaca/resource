@@ -2482,23 +2482,15 @@ https://stitcher.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/5JyKxYV.png" group-title="FILM",&FLIX HD 
-#https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
-
-#EXTINF:1 tvg-logo="https://i.imgur.com/UjagzZV.png" group-title="FILM",&PRIVE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-#https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iQX9i1O.png" group-title="FILM",&XPLOR HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-#https://live.drmlive-02.workers.dev/zee/209.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=292a69002b353485998153ebb37d7946:ba27a317790d6b06f7497695d0b61ca9
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX3BpY3R1cmVzL25kYXNoZC8=:Expires=1750811598:KeyName=iptv-prod-media-cdn-keys:Signature=Ijx-7jPaPO24WijjwWpKf_vTm1MqZPqlBWMKyqFl6vlXRMSAzvN8ONw1Zds6uC3pUEeEdfsdGixMQqGnqqw3DQ=="}
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/nKwv2i8.png" group-title="FILM",&Prive
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-#https://companion-live-play1.streamready.in/live/med15-2/and_pictures/ndashd/and_pictures.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX3BpY3R1cmVzL25kYXNoZC8=:Expires=1750811598:KeyName=iptv-prod-media-cdn-keys:Signature=Ijx-7jPaPO24WijjwWpKf_vTm1MqZPqlBWMKyqFl6vlXRMSAzvN8ONw1Zds6uC3pUEeEdfsdGixMQqGnqqw3DQ==
+https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/KJz67JX.png" group-title="FILM",&Explore
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
+https://live.drmlive-02.workers.dev/zee/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/oL8EilK.png" group-title="FILM",&FLIK
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
+https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/TtHaaOw.png" group-title="FILM",Sony pix
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
@@ -2724,13 +2716,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 
 #EXTINF:-1 group-title="HIBURAN"  tvg-logo="https://i.imgur.com/AGMgTcY.png",!nsert
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
-https://m.brass.my.id/web/insert/master.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cbm.openwindows038.workers.dev/
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/wALPZfI.png",dmTravel&Taste
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -3043,14 +3039,15 @@ https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="Musik Indonesia.id" tvg-logo="https://i.imgur.com/i0tDMFT.png" group-title="GAYA HIDUP",Musik Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cubmu.com&referer=https://cubmu.com/&user-agent=CubMu/1.5.13 (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.req_params=custom-data:eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685730a4243017317dee5df1572/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cbm.openwindows038.workers.dev/
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685730a4243017317dee5df1572/manifest.mpd
 
 #EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/04/Po2Yu.png" group-title="GAYA HIDUP",Ent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
