@@ -3089,10 +3089,12 @@ https://live.feed.thepalmbeaches.tv/index.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h0off.png" group-title="GAYA HIDUP",BAYWATCH
 https://stitcher.pluto.tv/stitch/hls/channel/62bdae69a47b6c00076af298/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=baeee42f-2be6-11f0-9133-b22afad634dd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oX7Bh3q.png" group-title="GAYA HIDUP",Ninja Warrior
+#EXTINF:-1 tvg-id="" tvg-name="Ninja Warrior" tvg-logo="https://i.imgur.com/mnavpg3.png" group-title="GAYA HIDUP",Ninja Warrior
 https://stitcher.pluto.tv/stitch/hls/channel/66d7152b167a8b0008fd3569/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=baeee42f-2be6-11f0-9133-b22afad634dd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/erOL07f.png" group-title="GAYA HIDUP",Fear Factor
+#EXTINF:-1 tvg-id="" tvg-name="Fear Factor" tvg-logo="https://i.imgur.com/1e7ORXL.png" group-title="GAYA HIDUP",Fear Factor
 https://stitcher.pluto.tv/stitch/hls/channel/63482674df87730007656044/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=baeee42f-2be6-11f0-9133-b22afad634dd
+
+
 
 
 
@@ -3238,21 +3240,21 @@ https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HEUfgUN.png" group-title="Semprotan1",Star Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HSeMLoa.png" group-title="Semprotan1",Star Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=342972045bddbc97f43cc3c841cdc6b9:3ca2eb502e8746168c77ad9a506bb293
 #https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
 http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HEUfgUN.png" group-title="Semprotan1",Star Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HSeMLoa.png" group-title="Semprotan1",Star Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HEUfgUN.png" group-title="Semprotan1",Star Sport 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HSeMLoa.png" group-title="Semprotan1",Star Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -3368,14 +3370,52 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
-#EXTINF:-1 group-title="Semprotan1" tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/MDCgs8P.png",Dubai Sports 1 
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
+#EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://i.imgur.com/LUaqBvz.png" group-title="Semprotan1", AL KASS 1
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buoi/master.m3u8
 
-#EXTINF:-1 group-title="Semprotan1" tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/MDCgs8P.png",Dubai Sports 2 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
 
-#EXTINF:-1 group-title="Semprotan1" tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/MDCgs8P.png",Dubai Sports 3 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
+#EXTINF:-1 tvg-id="2023 Alkass 2.qa" tvg-logo="https://i.imgur.com/LUaqBvz.png" group-title="Semprotan1", AL KASS 2
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+
+
+#EXTINF:-1 tvg-id="2023 Alkass 3.qa" tvg-logo="https://i.imgur.com/LUaqBvz.png" group-title="Semprotan1", AL KASS 3
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+
+
+#EXTINF:-1 tvg-id="2023 Alkass 4.qa" tvg-logo="https://i.imgur.com/LUaqBvz.png" group-title="Semprotan1", AL KASS 4
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azqa/master.m3u8
+
+
+#EXTINF:-1 tvg-id="2023 Alkass 5.qa" tvg-logo="https://i.imgur.com/LUaqBvz.png" group-title="Semprotan1", AL KASS 5
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+
+
+#EXTINF:-1 tvg-id="2023 Alkass 6.qa" tvg-logo="https://i.imgur.com/LUaqBvz.png" group-title="Semprotan1", AL KASS 6
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://i.imgur.com/FgfiYTJ.png" group-title="Semprotan1", DubaiSports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://i.imgur.com/FgfiYTJ.png" group-title="Semprotan1", DubaiSports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://i.imgur.com/FgfiYTJ.png" group-title="Semprotan1", DubaiSports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3	
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+
 
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PajqC.png" group-title="Semprotan1",beIN Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4213,7 +4253,7 @@ http://nonamevos.com:80/4500/4500/21044
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PajqC.png" group-title="Semprotan2" ,beIN USA
 #https://livecdn.rumsport.com/stream/8/index.m3u8|referer=https://live-streamfootball.com
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="CANAL+ SPORT",CANAL+ 01
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PaXWu.png" group-title="Semprotan2" ,CANAL+ 01
 #EXTVLCOPT:http-referrer=http://azers.online/
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155540&extension=ts&play_token=RgTd5r3rbc
