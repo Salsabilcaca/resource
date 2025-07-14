@@ -1026,28 +1026,32 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 ======================badminton=========================
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=18250&type=drm
 https://red.openwindows038.workers.dev/play.mpd?id=18250&type=dash
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=18249&type=drm
 https://red.openwindows038.workers.dev/play.mpd?id=18249&type=dash
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 #https://beww.pl/telegram.m3u8?punya=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDkzMDEwNDd9.9XppTq3L36vdd-9W4VqbLhQfL2EEqFqqYY5bVyQdOE0&kategori=cyev3
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
-
+#https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/trans7.m3u8
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 4
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
-
+#http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
+https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/truepremfootball1.m3u8
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true7.m3u8
 
 
@@ -1133,7 +1137,7 @@ https://apisportzz179528093.nsnd.live/IDIU0Um4oCPz47LmYf7qsQ/Fv2lucGIbhPi2caWYvF
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/antv.m3u8
 
 
 =================================================bola====================================================================
@@ -1175,7 +1179,7 @@ https://red.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=6317&type=drm
-#https://red.openwindows038.workers.dev/play.mpd?id=6317&type=dash
+https://red.openwindows038.workers.dev/play.mpd?id=6317&type=dash
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 05
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -1184,7 +1188,7 @@ https://red.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 #https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
-#https://cors.svaren.dev/https://linear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd
+https://cors.svaren.dev/https://linear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd
 
 
 ==========================gp============================
@@ -1320,8 +1324,8 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_
 #https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205&type=dash
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts 
-https://cdngb196.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
+#https://cdngb196.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/antv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj8Yx.png" group-title="TV NASIONAL",SCTV LOKAL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1        
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
@@ -1329,8 +1333,8 @@ https://cdngb196.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bypredwidevine.stviptv0012.workers.dev/widevine.dash?id=204
 #https://vidiohls.stviptv-21.workers.dev/stream.m3u8?id=204&type=dash
-https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
-
+#https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/huber.m3u8
 #EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjLRD.png" group-title="TV NASIONAL",TRANS 7 Lokal
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -1718,11 +1722,11 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/eY_uKbg7Rc91s1vVYl3nug/Fv2lucGIbhPi2caWYvF5Lg/1752155835762/live/caSD/chunklist.m3u8
+#https://hotlivezz179602324.akainu.xyz/eY_uKbg7Rc91s1vVYl3nug/Fv2lucGIbhPi2caWYvF5Lg/1752155835762/live/caSD/chunklist.m3u8
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 04
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18162/file/live/18162/master.m3u8?hdnts=exp=1751965875~acl=/stream/18162/file/*~id=allUsers~hmac=668a5c6642ccca3c6f40884676a67d8c1872cfb8e69c95f92495c0b30c8268b2
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
+#http://103.159.195.61:9981/stream/channelid/828235930?profile=pass
 
 =======================================================================================anakan=====================================================================
 
@@ -3465,11 +3469,11 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PajqC.png" group-title="Semprotan1",Bein Sports-1 my
-https://ott.udptv.org/stream/astro/beinsports1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#https://ott.udptv.org/stream/astro/beinsports1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PajqC.png" group-title="Semprotan1",Bein Sports-2 my
-https://ott.udptv.org/stream/astro/beinsports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#https://ott.udptv.org/stream/astro/beinsports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/12/PajqC.png" group-title="Semprotan1",Bein Sports-3 my
-https://ott.udptv.org/stream/astro/beinsports3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#https://ott.udptv.org/stream/astro/beinsports3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-logo="", group-title="Semprotan1",Astro PL-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -3523,10 +3527,10 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-https://cors-proxy.wangzhishi.net/https://linears2-playback.astro.com.my/vsg/41ENDUqd3YT6AmUBgCCayHZEqU1OMLbA9gGFAUxgA2Y0M=VOCA/dash-wv/jitp-dashisowm/5170/default_ott.mpd
+#https://cors-proxy.wangzhishi.net/https://linears2-playback.astro.com.my/vsg/41ENDUqd3YT6AmUBgCCayHZEqU1OMLbA9gGFAUxgA2Y0M=VOCA/dash-wv/jitp-dashisowm/5170/default_ott.mpd
 #http://hotz.vip:2082/GM29/Glidermedia01/1011
 #https://ott.udptv.org/stream/astro/badminton/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
+https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/trans7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9qfD.png" group-logo="", group-title="Semprotan1",Astro Sportplus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
