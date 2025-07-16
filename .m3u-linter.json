@@ -2502,7 +2502,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #KODIPROP:inputstream.adaptive.req_params=custom-data:eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cbm.openwindows038.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
+##KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd          
 
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/MK80aaI.png" group-title="FILM",FLIK
@@ -2510,8 +2510,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0555b
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2156.m3u8
+#https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2156.m3u8
 #https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29592.m3u8
 
 #EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://i.imgur.com/se7g9ig.png" group-title="FILM",MovieSphere
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -3984,7 +3985,7 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
-https://d1e0289khllgbn.cloudfront.net/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="SKY SPORTS" tvg-logo="https://i.imgur.com/BMlpVNV.png" group-title="Semprotan2" ,SKY SPORTS LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
