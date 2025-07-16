@@ -2501,7 +2501,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://cubmu.com&referer=https://cubmu.com/&user-agent=CubMu/1.5.13 (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.req_params=custom-data:eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cbm.openwindows038.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd          
 
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/MK80aaI.png" group-title="FILM",FLIK
