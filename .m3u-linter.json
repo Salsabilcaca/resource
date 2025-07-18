@@ -1045,11 +1045,13 @@ https://bitter-boa-67.deno.dev/play.mpd?id=18249&type=dash
 #https://beww.pl/telegram.m3u8?punya=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDkzMDEwNDd9.9XppTq3L36vdd-9W4VqbLhQfL2EEqFqqYY5bVyQdOE0&kategori=cyev3
 #https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
 https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/trans7.m3u8
+
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
 https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/truepremfootball1.m3u8
+
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h6LK3.png" group-title="Live Event",badminton 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true7.m3u8
@@ -1200,7 +1202,7 @@ https://cors.svaren.dev/https://linear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
-https://red.openwindows038.workers.dev/play.mpd?id=17140&type=dash
+https://bitter-boa-67.deno.dev/play.mpd?id=17140&type=dash
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png" group-title="Live Event",#Live GP1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
@@ -1226,7 +1228,7 @@ https://optus.apigateway.web.id/optus/v7/OptusSport1/xbtss/drm/avc/dash/plain/ma
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-https://red.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:0 tvg-id="Mola.Id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pm25Q.png" group-title="Live Event",Live bM03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1260,10 +1262,10 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://halu.serv00.net/satu.mpd?id=18913&type=drm 
-#https://red.openwindows038.workers.dev/play.mpd?id=18913&type=dash
-https://halu.serv00.net/satu.mpd?id=18913&type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+https://vidio.iptvproxy.workers.dev/?id=9182&type=dash
+https://halu.serv00.net/satu.mpd?id=9182&type=dash
 
 #EXTINF:-1 group-title="Live Event" tvg-id="UEFA" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png", FIFA CLUB-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
