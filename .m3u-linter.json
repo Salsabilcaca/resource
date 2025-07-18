@@ -1185,13 +1185,15 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17938&type=dash
 http://openwindows037.serv00.net/vinteo/prodeo.mpd?id=6317&type=dash
 
 #EXTINF:-1 tvg-name="6"  tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/26/h65Xs.png" group-title="Live Event",Live bola 05
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-#https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv)AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
-https://cors.svaren.dev/https://linear201-de-dash1-prd-cf.cdn12.skycdp.com/bced/032111-50/index_stereo.mpd
+#KODIPROP:inputstream.adaptive.license_key=590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
+https://cors.jugorder.de/https://lb2-e1-90.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
+
 
 
 ==========================gp============================
@@ -1364,6 +1366,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts 
 #https://cdngb196.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/antv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj8Yx.png" group-title="TV NASIONAL",SCTV LOKAL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1        
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
@@ -1373,26 +1376,30 @@ https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/antv.m3u8
 #https://vidiohls.stviptv-21.workers.dev/stream.m3u8?id=204&type=dash
 #https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/huber.m3u8
+
 #EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjLRD.png" group-title="TV NASIONAL",TRANS 7 Lokal
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pjx38.png" group-title="TV NASIONAL",TRANS TV Lokal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://cdngb196.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PjZNz.png" group-title="TV NASIONAL",RCTI Lokal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PmzLS.png" group-title="TV NASIONAL",Moji Lokal
