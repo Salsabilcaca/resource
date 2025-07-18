@@ -1263,9 +1263,9 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-https://vidio.iptvproxy.workers.dev/?id=9182&type=dash
-https://halu.serv00.net/satu.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+#https://vidio.iptvproxy.workers.dev/?id=9182&type=dash
+https://halu.serv00.net/satu.mpd?id=17884&type=dash
 
 #EXTINF:-1 group-title="Live Event" tvg-id="UEFA" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmSEz.png", FIFA CLUB-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
